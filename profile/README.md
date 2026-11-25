@@ -31,4 +31,3 @@ WordPress · PHP · JavaScript / TypeScript · Node.js · React · Docker · ngi
 ## Contact
 
 - Email: [mazhar.yaroslav@gmail.com](mailto:mazhar.yaroslav@gmail.com)
-- GitHub: [@ymazhar](https://github.com/ymazhar)
